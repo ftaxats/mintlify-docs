@@ -97,5 +97,6 @@
         "email-client"
       ]
     }
-  ]
+  ],
+  "defaultPage": "/introduction"
 }
