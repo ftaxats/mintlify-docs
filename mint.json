@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:info@mailto.live"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://mailto.live/automation"
   },
   "tabs": [
     {
@@ -50,14 +50,55 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "AI Personal Assistant",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "ai-personal-assistant"
       ]
     },
     {
+      "group": "Bulk Unsubscriber",
+      "pages": [
+        "bulk-unsubscriber"
+      ]
+    },
+    {
+      "group": "Smart Categories",
+      "pages": [
+        "smart-categories"
+      ]
+    },
+    {
+      "group": "Cold Email Blocker",
+      "pages": [
+        "cold-email-blocker"
+      ]
+    },
+    {
+      "group": "Analytics",
+      "pages": [
+        "analytics"
+      ]
+    },
+    {
+      "group": "FAQ",
+      "pages": [
+        "faq"
+      ]
+    },
+    {
+      "group": "New Senders",
+      "pages": [
+        "new-senders"
+      ]
+    },
+    {
+      "group": "Email Client",
+      "pages": [
+        "email-client"
+      ]
+    }
+]
+
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
