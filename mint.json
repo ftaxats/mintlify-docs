@@ -50,6 +50,12 @@
   ],
   "navigation": [
     {
+      "group": "Introduction",
+      "pages": [
+        "introduction"
+      ]
+    },
+    {
       "group": "AI Personal Assistant",
       "pages": [
         "ai-personal-assistant"
