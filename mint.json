@@ -92,6 +92,13 @@
         "new-senders"
       ]
     },
+       },
+    {
+      "group": "API",
+      "pages": [
+        "api"
+      ]
+    },
     {
       "group": "Email Client",
       "pages": [
